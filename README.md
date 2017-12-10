@@ -1,2 +1,2 @@
 # Wildlife_Gallery
-An African wildlife photo blog 
+A blog that displays images of  African Wildlife.
